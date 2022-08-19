@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disney on Game6r</title>
+    <link>https://www.game6r.com/tags/disney/</link>
+    <description>Recent content in Disney on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/disney/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mickeys Spin and Stack</title>
+      <link>https://www.game6r.com/games/mickeys-spin-and-stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/mickeys-spin-and-stack/</guid>
+      <description>The famous Mickey Mouse and his girlfriend Minnie went on a trip on a small plane. Help the brave pilot avoid obstacles and get to the end point of the journey without crashing the plane and collecting the maximum number of reward points. You can destroy some obstacles with the help of a special pie thrower.</description>
+    </item>
+    
+  </channel>
+</rss>

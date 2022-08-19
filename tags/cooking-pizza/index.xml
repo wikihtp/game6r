@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cooking pizza on Game6r</title>
+    <link>https://www.game6r.com/tags/cooking-pizza/</link>
+    <description>Recent content in cooking pizza on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/cooking-pizza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bake Time Pizzas</title>
+      <link>https://www.game6r.com/games/bake-time-pizzas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/bake-time-pizzas/</guid>
+      <description>Become a real chef after launching this game. Here you can cook great pizza using simple and affordable ingredients. Just process them according to the prompts. And if you want, you can reproduce this recipe in real life to enjoy for real.</description>
+    </item>
+    
+    <item>
+      <title>Pizza Party</title>
+      <link>https://www.game6r.com/games/pizza-party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/pizza-party/</guid>
+      <description>After starting the game, you will transform into a real chef who knows a lot about Italian delicacies. Now you will be asked to cook a delicious 4 cheese pizza. For this, the kitchen already has everything you need. You just have to follow the steps in the recipe. Hints will help!</description>
+    </item>
+    
+  </channel>
+</rss>

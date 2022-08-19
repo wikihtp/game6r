@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The thieves on Game6r</title>
+    <link>https://www.game6r.com/tags/the-thieves/</link>
+    <description>Recent content in The thieves on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/the-thieves/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Money Movers</title>
+      <link>https://www.game6r.com/games/money-movers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/money-movers/</guid>
+      <description>Larry and Barry&amp;rsquo;s buddies are thieves, and they do their illegal deeds under the cover of night. Fat Barry can carry a lot in his bag, but only Larry can handle the obstacles in his path. Help them get past the guards, all kinds of barriers, other traps and return to their lair.</description>
+    </item>
+    
+    <item>
+      <title>Money Movers 2</title>
+      <link>https://www.game6r.com/games/money-movers-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/money-movers-2/</guid>
+      <description>During the game Thieves 2 you have to manage a team of robbers, consisting of four people. Each of them has unique abilities, and your task is to use the skills of robbers in time, depending on the situation. Try to empty all the game rooms and take out the jewelry within the allotted time.</description>
+    </item>
+    
+  </channel>
+</rss>

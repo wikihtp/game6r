@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chess for two on Game6r</title>
+    <link>https://www.game6r.com/tags/chess-for-two/</link>
+    <description>Recent content in Chess for two on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/chess-for-two/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Master Chess Multiplayer</title>
+      <link>https://www.game6r.com/games/master-chess-multiplayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/master-chess-multiplayer/</guid>
+      <description>The Chess for Two game was created specifically for beginners who are not yet very good at thinking through a game strategy. A friend or even a computer will help you learn. Start the game, study the possible moves and act. Perform each of them, find out what it can lead to and, perhaps, find a path that will lead to the defeat of your opponent.</description>
+    </item>
+    
+  </channel>
+</rss>

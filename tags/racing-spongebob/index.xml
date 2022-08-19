@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Racing SpongeBob on Game6r</title>
+    <link>https://www.game6r.com/tags/racing-spongebob/</link>
+    <description>Recent content in Racing SpongeBob on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/racing-spongebob/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portal Chase</title>
+      <link>https://www.game6r.com/games/portal-chase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/portal-chase/</guid>
+      <description>Enemies are chasing SpongeBob and you need to help him get away from them. Drive a funny hamburger car and try not to let the enemy agents grab Bob. Your main task is to drive as far as possible. The distance traveled is displayed at the top of the screen.</description>
+    </item>
+    
+    <item>
+      <title>The Great Snail Race</title>
+      <link>https://www.game6r.com/games/the-great-snail-race/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/the-great-snail-race/</guid>
+      <description>Lately, SpongeBob has been noticing that strange things are happening in Bikini Bottom. It turns out that the evil Plankton has created a device that can destroy all life around. Help our hero disable this device. Beware of gray jellyfish - they take lives. But Krabs hamburgers, on the contrary, replenish health.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open world on Game6r</title>
+    <link>https://www.game6r.com/tags/open-world/</link>
+    <description>Recent content in open world on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/open-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open world driving game</title>
+      <link>https://www.game6r.com/games/open-world-driving-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/open-world-driving-game/</guid>
+      <description>In this game, you can take a break from completing abstruse quests, leveling up the magical skills of characters and sharpening swords. Instead, you are invited to ride a car and destroy everything around. At the end of the race, you can even detonate a bomb to achieve maximum destruction. The goal is to score as many points as possible before the time runs out.</description>
+    </item>
+    
+    <item>
+      <title>Open world game</title>
+      <link>https://www.game6r.com/games/open-world-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/open-world-game/</guid>
+      <description>It cannot be said that you have a real open-world game in front of you, because it does have certain boundaries. But, nevertheless, a pleasant pastime is guaranteed. At your disposal will be a character armed initially with a sword. Then it will be possible to pick up another weapon (by the way, it affects objects differently). Walk, fight monsters, collect treasures.</description>
+    </item>
+    
+  </channel>
+</rss>

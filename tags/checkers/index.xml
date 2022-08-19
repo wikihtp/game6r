@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Checkers on Game6r</title>
+    <link>https://www.game6r.com/tags/checkers/</link>
+    <description>Recent content in Checkers on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/checkers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checkers samename1</title>
+      <link>https://www.game6r.com/games/checkers-samename1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/checkers-samename1/</guid>
+      <description>Do you like to play checkers? Try to experience their virtual version. A board of 64 cells will appear on the screen. There are two sets of checkers of different colors on it. Move your pieces in such a way that they are not next to the opponent&amp;rsquo;s checkers. Otherwise, the enemy will be able to cut them down, that is, remove them from the board!</description>
+    </item>
+    
+  </channel>
+</rss>

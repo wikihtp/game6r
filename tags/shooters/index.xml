@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shooters on Game6r</title>
+    <link>https://www.game6r.com/tags/shooters/</link>
+    <description>Recent content in Shooters on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/shooters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crazy Joe game</title>
+      <link>https://www.game6r.com/games/crazy-joe-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/crazy-joe-game/</guid>
+      <description>Today you have to help a desperate guy named Joe clean up the city. At night, the bandits seized the city council and intend to establish a new order. We urgently need to clear the streets of criminals. Grab a gun and start dealing with the enemy. Aim and shoot with your mouse.</description>
+    </item>
+    
+    <item>
+      <title>New shooter game</title>
+      <link>https://www.game6r.com/games/new-shooter-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/new-shooter-game/</guid>
+      <description>In New Shooter you will control a space marine whose task is to infiltrate a Martian research facility. According to the command, a new biological weapon is being developed there. You have to destroy the secret laboratory. But for this you will have to fight with a lot of guards and defeat them.</description>
+    </item>
+    
+  </channel>
+</rss>

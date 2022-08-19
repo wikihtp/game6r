@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RPG on Game6r</title>
+    <link>https://www.game6r.com/tags/rpg/</link>
+    <description>Recent content in RPG on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Battle coding game</title>
+      <link>https://www.game6r.com/games/battle-coding-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/battle-coding-game/</guid>
+      <description>This game will help you learn the basics of writing programs using special code, while exploring the world and fighting in a fantasy universe along the way. Choose your character, choose the language of the game, and then dive headlong into an exciting world of adventure. Never before has the process of writing code been so exciting.</description>
+    </item>
+    
+    <item>
+      <title>Tower RPG Adventure</title>
+      <link>https://www.game6r.com/games/tower-rpg-adventure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/tower-rpg-adventure/</guid>
+      <description>In this game you are waiting for the most dangerous adventures with a lot of battles. You have to save the princess, who was kidnapped by the villain and imprisoned in his castle. Collect all the keys to the doors and save the girl. But first you have to fight with her harsh guards. To deal more damage to enemies, try to apply maximum force to strike with a sword.</description>
+    </item>
+    
+    <item>
+      <title>Warrior Role Playing Game</title>
+      <link>https://www.game6r.com/games/warrior-role-playing-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/warrior-role-playing-game/</guid>
+      <description>In ancient prehistoric times, hordes of terrible monsters did not allow peasants to live in peace. And now a resident of one such village decides to fight back vile monsters. You need to help a brave peasant fight the enemy. He will have a dangerous journey through the occupied lands and constant battles with various monsters.</description>
+    </item>
+    
+  </channel>
+</rss>

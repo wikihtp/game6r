@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>monster hunters on Game6r</title>
+    <link>https://www.game6r.com/tags/monster-hunters/</link>
+    <description>Recent content in monster hunters on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/monster-hunters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Martians VS Robots</title>
+      <link>https://www.game6r.com/games/martians-vs-robots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/martians-vs-robots/</guid>
+      <description>The brave Autobots entered into a deadly battle with the Decepticons. Choose one of 3 characters of this exciting game and try to win in all fights. Thanks to your help, the brave defenders of the Earth will definitely defeat their eternal enemies and save our planet from complete destruction.</description>
+    </item>
+    
+  </channel>
+</rss>

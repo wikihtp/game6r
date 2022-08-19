@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robots Transformers on Game6r</title>
+    <link>https://www.game6r.com/tags/robots-transformers/</link>
+    <description>Recent content in Robots Transformers on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/robots-transformers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Epic Robot Battle</title>
+      <link>https://www.game6r.com/games/epic-robot-battle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/epic-robot-battle/</guid>
+      <description>The game Transformers undercover robots allows you to once again immerse yourself in the world of Autobots and Decepticons. You will play only on the side of the Autobots, but you can choose one of three characters at the very beginning of the game. Its essence lies in the fights between robots. Of course, according to the laws of the genre, you will have to fight with the Decepticons. Enemies are determined randomly.</description>
+    </item>
+    
+    <item>
+      <title>Robot City Simulator</title>
+      <link>https://www.game6r.com/games/robot-city-simulator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/robot-city-simulator/</guid>
+      <description>A small town on the edge of the desert has become a battlefield between the Autobots and the Decepticons. You have the honor of controlling Optimus Prime himself. There are hordes of enemies, but you have a powerful cannon and a heavy-duty cleaver for close combat. Both can be used at the same time. Destroy all enemies and move on to the next stage.</description>
+    </item>
+    
+  </channel>
+</rss>

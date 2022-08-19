@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pandas on Game6r</title>
+    <link>https://www.game6r.com/tags/pandas/</link>
+    <description>Recent content in pandas on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game for two Kungfu Panda</title>
+      <link>https://www.game6r.com/games/game-for-two-kungfu-panda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/game-for-two-kungfu-panda/</guid>
+      <description>The famous cartoon Panda travels to a far away kingdom where the peacock Lord Shen has perpetrated the genocide of spotted bears. Following the instructions of Master Shifu and controlling the movements of the funny Po, try to defeat all the soldiers of the disgraced son of the emperor and in the last mortal battle measure your strength with the cunning peacock himself.</description>
+    </item>
+    
+  </channel>
+</rss>

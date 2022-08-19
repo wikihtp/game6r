@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ball on Game6r</title>
+    <link>https://www.game6r.com/tags/ball/</link>
+    <description>Recent content in ball on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/ball/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2D Crazy Basketball</title>
+      <link>https://www.game6r.com/games/2d-crazy-basketball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/2d-crazy-basketball/</guid>
+      <description>A funny toy will require you to be attentive and able to calculate the trajectory of the balls. Try to create as large a sphere as possible on the playing field using the brush-shaped cursor. But be careful, if at least one of the balls moving across the field touches the sphere, the game will be lost.</description>
+    </item>
+    
+    <item>
+      <title>Red Ball VS Green King</title>
+      <link>https://www.game6r.com/games/red-ball-vs-green-king/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/red-ball-vs-green-king/</guid>
+      <description>The nightmarish black square decided to turn all the inhabitants of the kingdom of balls into terrible square monsters. Only you and your brave partner, the Red Ball, can stop the villain. By controlling the movements of the round hero, get to the factory of the insidious square and free the unfortunate inhabitants of the round planet.</description>
+    </item>
+    
+  </channel>
+</rss>

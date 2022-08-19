@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crystals on Game6r</title>
+    <link>https://www.game6r.com/tags/crystals/</link>
+    <description>Recent content in crystals on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/crystals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crystal Lines</title>
+      <link>https://www.game6r.com/games/crystal-lines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/crystal-lines/</guid>
+      <description>The Crystals game offers to get rid of precious stones. Form combinations of three or more identical elements horizontally or vertically to remove them from the playing field. If you can clear several rows at once, you will earn bonus points. Some combinations will bring you crystals with additional abilities. They will allow you to destroy even more lines and get more reward points. Sometimes random multipliers will appear on the screen.</description>
+    </item>
+    
+    <item>
+      <title>Game Simple Crystals</title>
+      <link>https://www.game6r.com/games/game-simple-crystals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/game-simple-crystals/</guid>
+      <description>In this game you will find a huge number of crystals of different shapes and colors. The task is to swap adjacent elements, trying to form combinations of three or more identical stones. If you succeed, a combination of identical crystals will disappear and give you bonus points.</description>
+    </item>
+    
+  </channel>
+</rss>

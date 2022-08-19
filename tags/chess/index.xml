@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chess on Game6r</title>
+    <link>https://www.game6r.com/tags/chess/</link>
+    <description>Recent content in Chess on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/chess/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Mind Chess 9</title>
+      <link>https://www.game6r.com/games/game-mind-chess-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/game-mind-chess-9/</guid>
+      <description>During Chess 9 Mind Game you will be able to train your logic and thinking. Here you are invited to try to beat the computer by moving pieces around the board. Each of the figures walks in a special way, try not to confuse. However, if you make a mistake, you simply won’t be able to complete the turn.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheep on Game6r</title>
+    <link>https://www.game6r.com/tags/sheep/</link>
+    <description>Recent content in Sheep on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/sheep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sheep Hunter</title>
+      <link>https://www.game6r.com/games/sheep-hunter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/sheep-hunter/</guid>
+      <description>Sean, Shirley and Timmy - lambs from the animated series, were abducted by aliens. Now they need to get out of the spaceship and escape from the enemies. You need to help the sheep cope with the task. Move them around locations, overcome various obstacles and don&amp;rsquo;t forget to collect socks for extra points.</description>
+    </item>
+    
+  </channel>
+</rss>

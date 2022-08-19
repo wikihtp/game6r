@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ninja on Game6r</title>
+    <link>https://www.game6r.com/tags/ninja/</link>
+    <description>Recent content in Ninja on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/ninja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dark Ninja</title>
+      <link>https://www.game6r.com/games/dark-ninja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/dark-ninja/</guid>
+      <description>The game &amp;ldquo;Ninja in action&amp;rdquo; is a fun training of ingenuity and attentiveness. Each level is an original puzzle. The little ninja needs to get to the transition to the next stage. Help the kid by launching him into flight from the catapult. Along the way, you can collect shurikens to get more reward points.</description>
+    </item>
+    
+    <item>
+      <title>Fruit Master 1</title>
+      <link>https://www.game6r.com/games/fruit-master-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/fruit-master-1/</guid>
+      <description>The Fruit Ninja game invites fans of stories about the elusive Eastern warriors to play. But this time there will be no bloody fights, harassment and other adventures. Today you will hone your skills with a samurai sword. The essence of the Fruit Ninja game is simple: you need to cut flying fruits and vegetables in half. You can play by choosing one of three difficulty levels. Start with the simplest.</description>
+    </item>
+    
+  </channel>
+</rss>

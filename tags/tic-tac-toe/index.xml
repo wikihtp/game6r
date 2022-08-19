@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tic Tac Toe on Game6r</title>
+    <link>https://www.game6r.com/tags/tic-tac-toe/</link>
+    <description>Recent content in Tic Tac Toe on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/tic-tac-toe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tic-tac-toe game for time</title>
+      <link>https://www.game6r.com/games/tic-tac-toe-game-for-time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/tic-tac-toe-game-for-time/</guid>
+      <description>Unlike other tic-tac-toe games, this computer plays really hard and even harshly. In addition, the time to think about a move is limited to a few seconds. So you have to think very quickly. On the other hand, such an approach will only further develop your brains, ingenuity and cunning. Mouse control.</description>
+    </item>
+    
+  </channel>
+</rss>

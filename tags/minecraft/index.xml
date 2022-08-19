@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>minecraft on Game6r</title>
+    <link>https://www.game6r.com/tags/minecraft/</link>
+    <description>Recent content in minecraft on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dungeoncraft</title>
+      <link>https://www.game6r.com/games/dungeoncraft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/dungeoncraft/</guid>
+      <description>You have to crush stones, craft items and, of course, survive. The plot of the Minecraft Creeper game consists of many dangerous night adventures in which you need to collect an infinite number of everything that is available on the playing field. The mouse is used to select an item. Arrow keys - to move the character in the minecraft world.</description>
+    </item>
+    
+    <item>
+      <title>Mineblock Adventure</title>
+      <link>https://www.game6r.com/games/mineblock-adventure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/mineblock-adventure/</guid>
+      <description>After launching the Minecraft 4 game, you will find yourself in a world made entirely of blocks. You will need to play as a character who will have to explore the virtual space and extract important resources. You can find here wood, stones and other useful items needed to create new objects. Work on them is carried out on a workbench, where you need to place a certain amount of resources.</description>
+    </item>
+    
+    <item>
+      <title>Paper Minecraft</title>
+      <link>https://www.game6r.com/games/paper-minecraft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/paper-minecraft/</guid>
+      <description>Our character found himself in a large cave, which can be explored for a very long time. After passing the first level of the Paper Minecraft game, it will become known that you are not alone in this dungeon. To survive, you need to learn how to use a basic set of tools and be able to create not only weapons, but also protective armor. When you start playing, use the WASD keys to move the hero and the left mouse button to build in Minecraft.</description>
+    </item>
+    
+    <item>
+      <title>Zombie Jesus` Egg Grab</title>
+      <link>https://www.game6r.com/games/zombie-jesus-egg-grab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/zombie-jesus-egg-grab/</guid>
+      <description>This game takes you to a rather dangerous area. The task is to move along it, jumping over the most dangerous places. You need the spacebar to jump, and the WASD buttons to move. At the bottom of the screen you will see information about health points and the amount of ammo available.</description>
+    </item>
+    
+  </channel>
+</rss>

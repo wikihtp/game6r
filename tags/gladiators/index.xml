@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gladiators on Game6r</title>
+    <link>https://www.game6r.com/tags/gladiators/</link>
+    <description>Recent content in gladiators on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/gladiators/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gladiators</title>
+      <link>https://www.game6r.com/games/gladiators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/gladiators/</guid>
+      <description>The game Gladiators takes you to the time of the Roman Empire and offers you to compete with other players, managing a squad of brave warriors participating in various tournaments. Lead a school of gladiators by recruiting different types of fighters: horsemen, archers and charioteers. An online game about gladiators allows you to enjoy spectacular, exciting battles, participate in various tournaments and championships, winning money and fame. Develop your school, unlock new opportunities and fight for control of the empire.</description>
+    </item>
+    
+  </channel>
+</rss>

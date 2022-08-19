@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>parking on Game6r</title>
+    <link>https://www.game6r.com/tags/parking/</link>
+    <description>Recent content in parking on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/parking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hardest Parking</title>
+      <link>https://www.game6r.com/games/hardest-parking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/hardest-parking/</guid>
+      <description>Your task in this game is to try to travel as far as possible on a bike without hitting others and observing all the rules of the road. Move along a special path for cyclists, the arrow will show you the route. Then find a place to park and put the bike in a special cell.</description>
+    </item>
+    
+    <item>
+      <title>Real Car Parking</title>
+      <link>https://www.game6r.com/games/real-car-parking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/real-car-parking/</guid>
+      <description>In this game you can be a tractor driver on a farm for a while. Do different chores around the house using the right gear for each task. It is important to approach the trailer very precisely in order to be able to attach it. But it will be even more difficult to park the tractor without hitting buildings and other machines.</description>
+    </item>
+    
+  </channel>
+</rss>

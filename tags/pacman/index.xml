@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pacman on Game6r</title>
+    <link>https://www.game6r.com/tags/pacman/</link>
+    <description>Recent content in pacman on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/pacman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Pacman Maze 3D</title>
+      <link>https://www.game6r.com/games/game-pacman-maze-3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/game-pacman-maze-3d/</guid>
+      <description>Gamers are offered a very unusual performance of the popular game. The view in it is from the first person, and the action takes place in a three-dimensional maze. As before, you need to collect vitamins and avoid encounters with monsters in the maze. To help the player is given a map located in the upper left corner of the screen. It depicts the labyrinth itself, all the characters and tablets.</description>
+    </item>
+    
+  </channel>
+</rss>

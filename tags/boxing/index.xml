@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boxing on Game6r</title>
+    <link>https://www.game6r.com/tags/boxing/</link>
+    <description>Recent content in Boxing on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/boxing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Shadow Fight 2</title>
+      <link>https://www.game6r.com/games/game-shadow-fight-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/game-shadow-fight-2/</guid>
+      <description>Enter the ring and fight with your opponent on equal terms. You have the option to choose the skirmish mode. Thrashing the computer is fun, but it&amp;rsquo;s much more fun to meet another player who has more cunning, strikes more often, and dodges attacks more correctly than an artificial intelligence going on a frontal attack.</description>
+    </item>
+    
+    <item>
+      <title>Game Shadow Fight 2 Duel</title>
+      <link>https://www.game6r.com/games/game-shadow-fight-2-duel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/game-shadow-fight-2-duel/</guid>
+      <description>The fight here is for the belt of the world boxing champion, so gather all your strength into a fist and prove that you are a worthy opponent. First you need to learn how to accurately strike. After all, with the transition to the next game level, the rules of battle become tougher. Remember, if you defeat the enemy with a technical knockout, then the victory will look much more spectacular.</description>
+    </item>
+    
+  </channel>
+</rss>

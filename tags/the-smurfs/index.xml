@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Smurfs on Game6r</title>
+    <link>https://www.game6r.com/tags/the-smurfs/</link>
+    <description>Recent content in The Smurfs on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/the-smurfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smurfys Coloring</title>
+      <link>https://www.game6r.com/games/smurfys-coloring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/smurfys-coloring/</guid>
+      <description>The task in this game is simple - you need to color a picture of the Smurfs using a palette of colors. The variety of shades will greatly facilitate the process of completing the task. To control, use the mouse - click on the left button to select a color, and then on the area that you want to paint with it.</description>
+    </item>
+    
+    <item>
+      <title>The Smurfs Counting Game</title>
+      <link>https://www.game6r.com/games/the-smurfs-counting-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/the-smurfs-counting-game/</guid>
+      <description>The Smurfs game will allow you to participate in exciting bike races. This vehicle is safer than motorcycles or cars, which, of course, is a plus. But not everything is as simple as it might seem at first glance. First impressions are often deceiving. There are also exceptions to the general rule. And this game is one of them. Your task, controlling a smurf, is to get to the finish line as soon as possible, bypassing all the obstacles in the process of passing the game.</description>
+    </item>
+    
+  </channel>
+</rss>

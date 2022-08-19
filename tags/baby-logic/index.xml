@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baby Logic on Game6r</title>
+    <link>https://www.game6r.com/tags/baby-logic/</link>
+    <description>Recent content in Baby Logic on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/baby-logic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jewel Blocks</title>
+      <link>https://www.game6r.com/games/jewel-blocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/jewel-blocks/</guid>
+      <description>This game is an analogue of the well-known Tetris, but in it you will face a slightly different task. It is necessary to build the highest possible tower, using elements that fall from above. They can be flipped to find the most suitable and stable position.</description>
+    </item>
+    
+    <item>
+      <title>Whose House</title>
+      <link>https://www.game6r.com/games/whose-house/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/whose-house/</guid>
+      <description>A game of logic and thinking for children offers you to solve incredibly exciting puzzles in the company of funny live balls. They need to collect their cubs home, and for this, a large ball must touch all the babies of the same color. Choose the most suitable place to launch the balls and start the gameplay.</description>
+    </item>
+    
+  </channel>
+</rss>

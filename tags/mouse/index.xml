@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mouse on Game6r</title>
+    <link>https://www.game6r.com/tags/mouse/</link>
+    <description>Recent content in mouse on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/mouse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Mouse Mario McBee</title>
+      <link>https://www.game6r.com/games/game-mouse-mario-mcbee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/game-mouse-mario-mcbee/</guid>
+      <description>In this game you have to control a funny little man. He must run a certain distance, and you need to help the character overcome the obstacles that stand in the way. Their role is played by pipes of different heights. Quickly jump over them, trying to avoid a collision, otherwise you will immediately lose.</description>
+    </item>
+    
+    <item>
+      <title>Ninja Mouse Game</title>
+      <link>https://www.game6r.com/games/ninja-mouse-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/ninja-mouse-game/</guid>
+      <description>During this game, unforgettable adventures await you, and in order to participate in them, you do not need anything but a mouse. You will turn into a fast and elusive ninja who must destroy enemies coming from all sides. Try not to hesitate so as not to miss any of the rivals, otherwise there is a risk of losing.</description>
+    </item>
+    
+  </channel>
+</rss>

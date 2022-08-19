@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arkanoid on Game6r</title>
+    <link>https://www.game6r.com/tags/arkanoid/</link>
+    <description>Recent content in Arkanoid on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/tags/arkanoid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Arkanoid classic 1989</title>
+      <link>https://www.game6r.com/games/game-arkanoid-classic-1989/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/game-arkanoid-classic-1989/</guid>
+      <description>Your goal in Arkanoid Classic 1989 is to free the board from colorful bricks with the help of a bouncing ball. Some of them, after being removed, turn into various bonuses. Try to catch them. This will give you the opportunity to get certain abilities for the ball or platform for a while. You can play online.</description>
+    </item>
+    
+    <item>
+      <title>King Fishing</title>
+      <link>https://www.game6r.com/games/king-fishing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/king-fishing/</guid>
+      <description>The evil doctor caught all the fish and locked them in boxes to be sent to the laboratory. Help the brave rescuers free them in two minutes. The gameplay is an improved variation of the classic arkanoid, only instead of tiles there are funny fish that you need to hit with a ball and catch when they pop up.</description>
+    </item>
+    
+    <item>
+      <title>Space Arkanoid game</title>
+      <link>https://www.game6r.com/games/space-arkanoid-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/games/space-arkanoid-game/</guid>
+      <description>This game is an arkanoid made in a space setting. Levels contain many different bonuses, but must be completed within a certain time. The key point is the appearance of a black hole, where you need to hit the ball. Defend your position from space invasion using all the variety of possibilities that this game gives.</description>
+    </item>
+    
+  </channel>
+</rss>
