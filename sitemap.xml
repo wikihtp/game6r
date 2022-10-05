@@ -1858,6 +1858,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.game6r.com/tags/crazy-games/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.game6r.com/games/crazy-joe-game/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -3258,6 +3262,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.game6r.com/tags/friv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.game6r.com/games/frogtastic/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -3666,7 +3674,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.game6r.com/games/game-fidget-spinner-high-score/</loc>
+    <loc>https://www.game6r.com/games/game-fidget-spinner-high-crazy-games/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -7402,6 +7410,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.game6r.com/tags/poki/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.game6r.com/tags/police/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -8411,10 +8423,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.game6r.com/games/scooby-doo-scoobtober-trick-or-treat/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.game6r.com/tags/score/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -9750,10 +9758,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.game6r.com/tags/three-in-a-row/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.game6r.com/games/tiana-spring-green-wedding/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -9787,10 +9791,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.game6r.com/games/titans-return/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.game6r.com/tags/to-phone/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
