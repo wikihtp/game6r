@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.game6r.com/genre/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Festival</title>
+      <link>https://www.game6r.com/genre/festival/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.game6r.com/genre/festival/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Movies</title>
       <link>https://www.game6r.com/genre/movies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
