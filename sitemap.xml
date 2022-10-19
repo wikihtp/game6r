@@ -4506,6 +4506,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.game6r.com/genre/games/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.game6r.com/games/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -6683,6 +6687,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.game6r.com/games/morning-catch/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.game6r.com/stories/most-popular-online-games-of-2022/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -9871,6 +9879,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.game6r.com/games/toon-off/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.game6r.com/stories/top-10-free-games-websites-for-online-gaming/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
