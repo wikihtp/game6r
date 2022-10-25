@@ -1,62 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
     <title>Entertainment on Game6r</title>
     <link>https://www.game6r.com/genre/entertainment/</link>
     <description>Recent content in Entertainment on Game6r</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2016-{year}</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 13:22:56 +0000</lastBuildDate><atom:link href="https://www.game6r.com/genre/entertainment/index.xml" rel="self" type="application/rss+xml" />
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+    <copyright>Copyright © 2016-2022</copyright>
+    <lastBuildDate>Sun, 16 Oct 2022 13:22:56 +0000</lastBuildDate><atom:link href="https://www.game6r.com/genre/entertainment/index.xml" rel="self" type="application/rss+xml" /><image>
+      <url>https://www.game6r.com/stories/publisher-logo-32.png</url>
+      <title>Entertainment on Game6r</title>
+      <link>https://www.game6r.com/genre/entertainment/</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+    
     <item>
       <title>10 Famous Cartoon Characters Of All Time</title>
       <link>https://www.game6r.com/stories/10-famous-cartoon-characters-of-all-time/</link>
       <pubDate>Sun, 16 Oct 2022 13:22:56 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/stories/10-famous-cartoon-characters-of-all-time/</guid>
-      <description>&lt;!DOCTYPE html&gt; 10 Famous Cartoon Characters Of All Time 10 Famous Cartoon Characters Of All Time G6 Stories
-10
-Courage Iconic quote- &#39;The things I do for love.&#39;
-9
-Scooby-Doo Iconic quote- &#39;Scooby Doobie Doooo!&#39;
-8
-Louise Belcher Iconic quote- &#39;You think you know how to kiss?&#39;
-7
-Homer Simpson Iconic quote- &#39;D&#39;oh!&#39;
-6
-Stewie Griffin Iconic quote- &#39;Damn, you vile woman.&#39;
-5
-Helga Pataki Iconic quote- &#39;Move it football head!</description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/10-famous-cartoon-characters-of-all-time/">
+                    <img
+                        src="https://www.game6r.com/images/17/10-famous-cartoon-characters-of-all-time-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="10 Famous Cartoon Characters Of All Time"
+                        srcset="https://www.game6r.com/images/17/10-famous-cartoon-characters-of-all-time-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/10-famous-cartoon-characters-of-all-time/">
+                    <img
+                        src="https://www.game6r.com/images/17/10-famous-cartoon-characters-of-all-time-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="10 Famous Cartoon Characters Of All Time"
+                        srcset="https://www.game6r.com/images/17/10-famous-cartoon-characters-of-all-time-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
     <item>
       <title>10 Most Popular Anime Character Ever Created</title>
       <link>https://www.game6r.com/stories/10-most-popular-anime-character-ever-created/</link>
       <pubDate>Sun, 16 Oct 2022 13:22:56 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/stories/10-most-popular-anime-character-ever-created/</guid>
-      <description>&lt;!DOCTYPE html&gt; 10 Most Popular Anime Character Ever Created 10 Most Popular Anime Character Ever Created G6 Stories
-10
-Levi Ackerman Attack on Titan
-9
-Asuka Langley Evangelion
-8
-Guts Berserk
-7
-Edward Elric Fullmetal Alchemist
-6
-Naruto Uzumaki Naruto
-5
-Monkey D Luffy One Piece
-4
-Ash &amp; Pikachu Pokémon
-3
-Shinji Ikari Evangelion
-2
-Spike Spiegel Cowboy Bebop
-1
-Goku Dragon Ball
-With Latest Stories!&amp;nbsp;
-Stay Updated</description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/10-most-popular-anime-character-ever-created/">
+                    <img
+                        src="https://www.game6r.com/images/18/10-most-popular-anime-character-ever-created-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="10 Most Popular Anime Character Ever Created"
+                        srcset="https://www.game6r.com/images/18/10-most-popular-anime-character-ever-created-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/10-most-popular-anime-character-ever-created/">
+                    <img
+                        src="https://www.game6r.com/images/18/10-most-popular-anime-character-ever-created-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="10 Most Popular Anime Character Ever Created"
+                        srcset="https://www.game6r.com/images/18/10-most-popular-anime-character-ever-created-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
   </channel>

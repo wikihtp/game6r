@@ -1,68 +1,246 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
     <title>Festival on Game6r</title>
     <link>https://www.game6r.com/genre/festival/</link>
     <description>Recent content in Festival on Game6r</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2016-{year}</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 13:22:56 +0000</lastBuildDate><atom:link href="https://www.game6r.com/genre/festival/index.xml" rel="self" type="application/rss+xml" />
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+    <copyright>Copyright © 2016-2022</copyright>
+    <lastBuildDate>Sun, 16 Oct 2022 13:22:56 +0000</lastBuildDate><atom:link href="https://www.game6r.com/genre/festival/index.xml" rel="self" type="application/rss+xml" /><image>
+      <url>https://www.game6r.com/stories/publisher-logo-32.png</url>
+      <title>Festival on Game6r</title>
+      <link>https://www.game6r.com/genre/festival/</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+    
     <item>
       <title>The best Halloween movies of all time</title>
       <link>https://www.game6r.com/stories/the-best-halloween-movies-of-all-time/</link>
       <pubDate>Sun, 16 Oct 2022 13:22:56 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/stories/the-best-halloween-movies-of-all-time/</guid>
-      <description>&lt;!DOCTYPE html&gt; The best Halloween movies of all time The best Halloween movies of all time G6 Stories
-The Texas Chain Saw Massacre (1974) If you haven&#39;t already done so, work up the courage to see Tobe Hooper&#39;s criminally underrated classic, Texas. It is the scariest movie ever made.
-Suspiria (1977) Dario Argento&#39;s grim fairy tale about a timid American dancer who enrols at a spooky European ballet academy has some gnarly death scenes and a hair-raising score.</description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/the-best-halloween-movies-of-all-time/">
+                    <img
+                        src="https://www.game6r.com/images/20/the-best-halloween-movies-of-all-time-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="The best Halloween movies of all time"
+                        srcset="https://www.game6r.com/images/20/the-best-halloween-movies-of-all-time-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/the-best-halloween-movies-of-all-time/">
+                    <img
+                        src="https://www.game6r.com/images/20/the-best-halloween-movies-of-all-time-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="The best Halloween movies of all time"
+                        srcset="https://www.game6r.com/images/20/the-best-halloween-movies-of-all-time-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
     <item>
       <title>10 Last-Minute Halloween Costumes Ideas</title>
       <link>https://www.game6r.com/stories/10-last-minute-halloween-costumes-ideas/</link>
       <pubDate>Mon, 10 Oct 2022 17:33:49 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/stories/10-last-minute-halloween-costumes-ideas/</guid>
-      <description>&lt;!DOCTYPE html&gt; 10 Last-Minute Halloween Costumes Ideas 10 Last-Minute Halloween Costumes Ideas G6 Stories
-Zombies Shred old clothes using scissors and razor blades then stained them with coffee grinds and attached grass using spray adhesive. 3 parts corn syrup, one part water, red food colouring, flour to thicken to make fake blood.
-1
-ministylehacker 2
-Tinker Bell Costume Swing by the costume shop for a pair of wings, or order on Amazon—there&#39;s still time for two-day shipping!</description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/10-last-minute-halloween-costumes-ideas/">
+                    <img
+                        src="https://www.game6r.com/images/14/10-last-minute-halloween-costumes-ideas-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="10 Last-Minute Halloween Costumes Ideas"
+                        srcset="https://www.game6r.com/images/14/10-last-minute-halloween-costumes-ideas-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/10-last-minute-halloween-costumes-ideas/">
+                    <img
+                        src="https://www.game6r.com/images/14/10-last-minute-halloween-costumes-ideas-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="10 Last-Minute Halloween Costumes Ideas"
+                        srcset="https://www.game6r.com/images/14/10-last-minute-halloween-costumes-ideas-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
     <item>
       <title>Why Do We Celebrate Halloween on October 31?</title>
       <link>https://www.game6r.com/stories/why-do-we-celebrate-halloween-on-october-31/</link>
       <pubDate>Mon, 10 Oct 2022 17:33:49 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/stories/why-do-we-celebrate-halloween-on-october-31/</guid>
-      <description>&lt;!DOCTYPE html&gt; Why Do We Celebrate Halloween on October 31? Why Do We Celebrate Halloween on October 31? G6 Stories
-Halloween was born many years ago and is celebrated on the last Saturday of October. It was originally celebrated on May 13 but was moved to October 31 by Pope Boniface IV.
-Facts The word Halloween comes from All Hallows&#39; Eve and means hallowed evening.
-Halloween falls on October 31 because the ancient Gaelic festival of Samhain occurred on this day.</description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/why-do-we-celebrate-halloween-on-october-31/">
+                    <img
+                        src="https://www.game6r.com/images/16/why-do-we-celebrate-halloween-on-october-31-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="Why Do We Celebrate Halloween on October 31?"
+                        srcset="https://www.game6r.com/images/16/why-do-we-celebrate-halloween-on-october-31-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/why-do-we-celebrate-halloween-on-october-31/">
+                    <img
+                        src="https://www.game6r.com/images/16/why-do-we-celebrate-halloween-on-october-31-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="Why Do We Celebrate Halloween on October 31?"
+                        srcset="https://www.game6r.com/images/16/why-do-we-celebrate-halloween-on-october-31-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
     <item>
       <title>6 warm Halloween costume ideas for kids</title>
       <link>https://www.game6r.com/stories/6-warm-halloween-costume-ideas-for-kids/</link>
       <pubDate>Sat, 08 Oct 2022 16:02:55 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/stories/6-warm-halloween-costume-ideas-for-kids/</guid>
-      <description>&lt;!DOCTYPE html&gt; 6 warm Halloween costume ideas for kids 6 warm Halloween costume ideas for kids G6 Stories
-Farmer Be prepared and have a thinner flannel shirt on hand just in case Mother Nature decides to gift a warm Halloween evening.
-Astronaut Astronaut suits are always puffy and you can fit a sweatshirt and sweatpants underneath without looking odd. Animals There&#39;s nothing odd about seeing a bear, deer or squirrel with a little extra plush this time of year.</description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/6-warm-halloween-costume-ideas-for-kids/">
+                    <img
+                        src="https://www.game6r.com/images/11/6-warm-halloween-costume-ideas-for-kids-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="6 warm Halloween costume ideas for kids"
+                        srcset="https://www.game6r.com/images/11/6-warm-halloween-costume-ideas-for-kids-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/6-warm-halloween-costume-ideas-for-kids/">
+                    <img
+                        src="https://www.game6r.com/images/11/6-warm-halloween-costume-ideas-for-kids-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="6 warm Halloween costume ideas for kids"
+                        srcset="https://www.game6r.com/images/11/6-warm-halloween-costume-ideas-for-kids-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
     <item>
       <title>New York Halloween Events and Activities</title>
       <link>https://www.game6r.com/stories/new-york-halloween-events-and-activities/</link>
       <pubDate>Sat, 08 Oct 2022 16:02:55 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/stories/new-york-halloween-events-and-activities/</guid>
-      <description>&lt;!DOCTYPE html&gt; New York Halloween Events and Activities New York Halloween Events and Activities G6 Stories
-Frights for the Family At the annual Bronx Halloween Parade, beginning at noon on Oct. 22, the New York Police Department marching band, the Philadelphia 76ers drum line and dozens of community organizations will haunt the streets.
-NYCRuns Haunted Island NYCRuns Haunted Island 5K and 10K takes place on Oct. 29 and provides age and gender-specific awards.</description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/new-york-halloween-events-and-activities/">
+                    <img
+                        src="https://www.game6r.com/images/13/new-york-halloween-events-and-activities-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="New York Halloween Events and Activities"
+                        srcset="https://www.game6r.com/images/13/new-york-halloween-events-and-activities-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/new-york-halloween-events-and-activities/">
+                    <img
+                        src="https://www.game6r.com/images/13/new-york-halloween-events-and-activities-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="New York Halloween Events and Activities"
+                        srcset="https://www.game6r.com/images/13/new-york-halloween-events-and-activities-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
   </channel>

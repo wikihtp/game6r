@@ -14,8 +14,15 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-    <copyright>Copyright © 2016-{year}</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 09:19:03 +0000</lastBuildDate><atom:link href="https://www.game6r.com/stories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2016-2022</copyright>
+    <lastBuildDate>Wed, 19 Oct 2022 09:19:03 +0000</lastBuildDate><atom:link href="https://www.game6r.com/stories/index.xml" rel="self" type="application/rss+xml" /><image>
+      <url>https://www.game6r.com/stories/publisher-logo-32.png</url>
+      <title>Stories on Game6r</title>
+      <link>https://www.game6r.com/stories/</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+    
     <item>
       <title>Most Popular Online Games of 2022</title>
       <link>https://www.game6r.com/stories/most-popular-online-games-of-2022/</link>

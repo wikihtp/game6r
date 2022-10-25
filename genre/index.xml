@@ -1,55 +1,246 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
     <title>Genre on Game6r</title>
     <link>https://www.game6r.com/genre/</link>
     <description>Recent content in Genre on Game6r</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2016-{year}</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 09:19:03 +0000</lastBuildDate><atom:link href="https://www.game6r.com/genre/index.xml" rel="self" type="application/rss+xml" />
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+    <copyright>Copyright © 2016-2022</copyright>
+    <lastBuildDate>Wed, 19 Oct 2022 09:19:03 +0000</lastBuildDate><atom:link href="https://www.game6r.com/genre/index.xml" rel="self" type="application/rss+xml" /><image>
+      <url>https://www.game6r.com/stories/publisher-logo-32.png</url>
+      <title>Genre on Game6r</title>
+      <link>https://www.game6r.com/genre/</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+    
     <item>
       <title>Games</title>
       <link>https://www.game6r.com/genre/games/</link>
       <pubDate>Wed, 19 Oct 2022 09:19:03 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/genre/games/</guid>
-      <description></description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/games/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Games"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/games/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Games"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
     <item>
       <title>Entertainment</title>
       <link>https://www.game6r.com/genre/entertainment/</link>
       <pubDate>Sun, 16 Oct 2022 13:22:56 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/genre/entertainment/</guid>
-      <description></description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/entertainment/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Entertainment"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/entertainment/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Entertainment"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
     <item>
       <title>Festival</title>
       <link>https://www.game6r.com/genre/festival/</link>
       <pubDate>Sun, 16 Oct 2022 13:22:56 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/genre/festival/</guid>
-      <description></description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/festival/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Festival"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/festival/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Festival"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
     <item>
       <title>Movies</title>
       <link>https://www.game6r.com/genre/movies/</link>
       <pubDate>Sun, 16 Oct 2022 13:22:56 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/genre/movies/</guid>
-      <description></description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/movies/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Movies"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/movies/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Movies"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
     <item>
       <title>Gift Ideas</title>
       <link>https://www.game6r.com/genre/gift-ideas/</link>
       <pubDate>Mon, 10 Oct 2022 17:33:49 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/genre/gift-ideas/</guid>
-      <description></description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/gift-ideas/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Gift Ideas"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/gift-ideas/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Gift Ideas"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
   </channel>

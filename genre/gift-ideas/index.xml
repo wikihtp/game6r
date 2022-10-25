@@ -1,24 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
     <title>Gift Ideas on Game6r</title>
     <link>https://www.game6r.com/genre/gift-ideas/</link>
     <description>Recent content in Gift Ideas on Game6r</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2016-{year}</copyright>
-    <lastBuildDate>Mon, 10 Oct 2022 17:33:49 +0000</lastBuildDate><atom:link href="https://www.game6r.com/genre/gift-ideas/index.xml" rel="self" type="application/rss+xml" />
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+    <copyright>Copyright © 2016-2022</copyright>
+    <lastBuildDate>Mon, 10 Oct 2022 17:33:49 +0000</lastBuildDate><atom:link href="https://www.game6r.com/genre/gift-ideas/index.xml" rel="self" type="application/rss+xml" /><image>
+      <url>https://www.game6r.com/stories/publisher-logo-32.png</url>
+      <title>Gift Ideas on Game6r</title>
+      <link>https://www.game6r.com/genre/gift-ideas/</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+    
     <item>
       <title>Top 10 Valentine&#39;s Day Gift Ideas</title>
       <link>https://www.game6r.com/stories/top-10-valentines-day-gift-ideas/</link>
       <pubDate>Mon, 10 Oct 2022 17:33:49 +0000</pubDate>
-      
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
       <guid>https://www.game6r.com/stories/top-10-valentines-day-gift-ideas/</guid>
-      <description>&lt;!DOCTYPE html&gt; Top 10 Valentine&#39;s Day Gift Ideas Top 10 Valentine&#39;s Day Gift Ideas G6 Stories
-1
-Custom Couple Portrait These watercolour-style portraits include a spot to record your anniversary and where you met.
-Buy on Esty The Comfy Teddy Bear Wearable Blanket Is it a blanket? Is it a sweatshirt? Does it really matter when it&#39;s as comfy as this?
-2
-Buy on Amazon Reasons Why I Love You Notebook Fill this blank notebook with every single reason, then watch his or her tears flow!</description>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/top-10-valentines-day-gift-ideas/">
+                    <img
+                        src="https://www.game6r.com/images/15/top-10-valentines-day-gift-ideas-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="Top 10 Valentine&#39;s Day Gift Ideas"
+                        srcset="https://www.game6r.com/images/15/top-10-valentines-day-gift-ideas-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/top-10-valentines-day-gift-ideas/">
+                    <img
+                        src="https://www.game6r.com/images/15/top-10-valentines-day-gift-ideas-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="Top 10 Valentine&#39;s Day Gift Ideas"
+                        srcset="https://www.game6r.com/images/15/top-10-valentines-day-gift-ideas-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
     </item>
     
   </channel>
