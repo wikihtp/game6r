@@ -15,13 +15,57 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     
     <copyright>Copyright © 2016-2022</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 09:19:03 +0000</lastBuildDate><atom:link href="https://www.game6r.com/genre/index.xml" rel="self" type="application/rss+xml" /><image>
+    <lastBuildDate>Wed, 26 Oct 2022 15:10:37 +0000</lastBuildDate><atom:link href="https://www.game6r.com/genre/index.xml" rel="self" type="application/rss+xml" /><image>
       <url>https://www.game6r.com/publisher-logo-32.png</url>
       <title>Genre on Game6r</title>
       <link>https://www.game6r.com/genre/</link>
       <width>32</width>
       <height>32</height>
     </image>
+    
+    <item>
+      <title>Celebrity</title>
+      <link>https://www.game6r.com/genre/celebrity/</link>
+      <pubDate>Wed, 26 Oct 2022 15:10:37 +0000</pubDate>
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
+      <guid>https://www.game6r.com/genre/celebrity/</guid>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/celebrity/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Celebrity"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/genre/celebrity/">
+                    <img
+                        src=""
+                        width="360"
+                        height="600"
+                        alt="Celebrity"
+                        srcset=" 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
+    </item>
     
     <item>
       <title>Games</title>
