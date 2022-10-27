@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>People on Game6r</title>
+    <link>https://www.game6r.com/genre/people/</link>
+    <description>Recent content in People on Game6r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+    <copyright>Copyright © 2016-2022</copyright>
+    <lastBuildDate>Thu, 27 Oct 2022 19:27:31 +0000</lastBuildDate><atom:link href="https://www.game6r.com/genre/people/index.xml" rel="self" type="application/rss+xml" /><image>
+      <url>https://www.game6r.com/publisher-logo-32.png</url>
+      <title>People on Game6r</title>
+      <link>https://www.game6r.com/genre/people/</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+    
+    <item>
+      <title>How Many Calories Does A Slice Of Pizza Have?</title>
+      <link>https://www.game6r.com/stories/how-many-calories-does-a-slice-of-pizza-have/</link>
+      <pubDate>Thu, 27 Oct 2022 19:27:31 +0000</pubDate>
+      <dc:creator><![CDATA[G6admin]]></dc:creator>
+      <guid>https://www.game6r.com/stories/how-many-calories-does-a-slice-of-pizza-have/</guid>
+      <description>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/how-many-calories-does-a-slice-of-pizza-have/">
+                    <img
+                        src="https://www.game6r.com/images/37/how-many-calories-does-a-slice-of-pizza-have-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="How Many Calories Does A Slice Of Pizza Have?"
+                        srcset="https://www.game6r.com/images/37/how-many-calories-does-a-slice-of-pizza-have-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[ 
+            <div class="wp-block-web-stories-embed alignnone">
+                <a
+                href="https://www.game6r.com/stories/how-many-calories-does-a-slice-of-pizza-have/">
+                    <img
+                        src="https://www.game6r.com/images/37/how-many-calories-does-a-slice-of-pizza-have-poster.webp"
+                        width="360"
+                        height="600"
+                        alt="How Many Calories Does A Slice Of Pizza Have?"
+                        srcset="https://www.game6r.com/images/37/how-many-calories-does-a-slice-of-pizza-have-poster.webp 640w"
+                        sizes="(max-width: 640px) 100vw, 640px"
+                        loading="lazy"
+                        decoding="async"/>
+                </a>
+            </div>
+        ]]>
+      </content:encoded>
+    </item>
+    
+  </channel>
+</rss>
